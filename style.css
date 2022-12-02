@@ -1,0 +1,44 @@
+html{
+    background: url(https://i.pinimg.com/236x/39/b6/c1/39b6c13ae895e09dc028ccecd14b9bbb.jpg) ;
+}
+.khung1{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.conkhung1 i{
+    margin-left: 20px;
+    background-color: rgb(209, 107, 47);
+}
+.khung2{
+    width: 80%;
+    height: 500px;
+    display: flex;
+    font-size: 20px;
+}
+.conkhung22{
+    color: rgb(199, 60, 69);
+    display: flex;
+    font-style: bold;
+    font-size: 30px;
+    font-weight: 500px;
+    justify-content: space-around;
+    margin: 0px 50px;
+}
+.conkhung22 i{
+    margin-right: 60px;
+    display: list-item;
+}
+.khung3 {
+    display: block;
+}
+.khung3 p{
+    font-size: 30px;
+}
+.khung3 i{
+
+}
+
+
